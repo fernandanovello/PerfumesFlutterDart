@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-# produtos
 
-Projeto universitário, catálogo de perfumes em Dart/Flutter.
+# Projeto universitário, catálogo de perfumes em Dart/Flutter.
 
 ## Getting Started
 
