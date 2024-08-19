@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # produtos
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# PerfumesFlutterDart
+>>>>>>> 7c5b30dd7999ad8bb8a817b01e5082896464187a
